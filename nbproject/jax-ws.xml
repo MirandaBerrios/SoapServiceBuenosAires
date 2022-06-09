@@ -4,6 +4,9 @@
     <service name="ProductService">
       <implementation-class>Service.ProductService</implementation-class>
     </service>
+    <service name="ReleaseOrderService">
+      <implementation-class>Service.ReleaseOrderService</implementation-class>
+    </service>
   </services>
   <clients/>
 </jax-ws>
